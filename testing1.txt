@@ -1,1 +1,16 @@
-Ali Khan: Cricket
+User1:
+First Name: Kashan
+Last Name: khan
+Gender: Male
+Age: 20
+Campus: SMIT
+Counter: 6
+
+User1:
+First Name: Kashan
+Last Name: khan
+Gender: Male
+Age: 20
+Campus: SMIT
+Counter: 6
+
